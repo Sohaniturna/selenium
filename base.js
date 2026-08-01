@@ -34,3 +34,9 @@ class Browser {
 // }
 
 // module.exports = Browser;
+
+const fruits = ["Apple", "Mango", "Orange"];
+
+for (let fruit of fruits) {
+    console.log(fruit);
+}
